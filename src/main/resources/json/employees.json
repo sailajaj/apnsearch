@@ -1,0 +1,24 @@
+{
+"employees": [
+  {
+    "name": "John Green",
+    "id": "1",
+    "dateHired": "9-10-2010"
+  },
+  {
+    "name": "Jack Daniel",
+    "id":"2",
+    "dateHired": "8-10-2014"
+  },
+  {
+    "name": "Tom Schultz",
+    "id":"3",
+    "dateHired": "7-15-2013"
+  },
+  {
+    "name": "Jack Daniel",
+    "id":"2",
+    "dateHired": "8-10-2014"
+  }
+]
+}

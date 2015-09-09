@@ -1,0 +1,19 @@
+{
+"employees": [
+  {
+    "name": "John",
+    "id": "1",
+    "dateHired": "9-10-2010"
+  },
+  {
+    "name": "Jack",
+    "id":"2",
+    "dateHired": "8-10-2014"
+  },
+  {
+    "name": "Tom",
+    "id":"3",
+    "dateHired": "7-15-2013"
+  }
+]
+}
